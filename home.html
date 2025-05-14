@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Zapatillas</title>
+    <link rel="stylesheet" href="estilosh.css">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo">MARCAS</div>
+            <div class="nav-links">
+                <a href="#" data-brand="nike">Nike</a>
+                <a href="#" data-brand="adidas">Adidas</a>
+                <a href="#" data-brand="puma">Puma</a>
+                <a href="#" data-brand="jordan">Jordan</a>
+                <a href="#" data-brand="reebok">Reebok</a>
+            </div>
+            <div class="brand-image">
+                <img id="header-brand-img" src="imagenes/nike-logo.png" alt="Marca destacada">
+            </div>
+        </div>
+        
+        <div class="search-filter-container">
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Buscar zapatillas...">
+                <button id="search-btn">Buscar</button>
+            </div>
+            <div class="filter-mobile-toggle" id="filter-toggle">
+                ☰ Filtros
+            </div>
+        </div>
+        
+        <div class="filters-container" id="filters-container">
+            <div class="filter-group">
+                <h3>Género</h3>
+                <select id="gender-filter">
+                    <option value="all">Todos</option>
+                    <option value="hombre">Hombre</option>
+                    <option value="mujer">Mujer</option>
+                    <option value="niños">Niños</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <h3>Talla</h3>
+                <select id="size-filter">
+                    <option value="all">Todas</option>
+                    <option value="36">36</option>
+                    <option value="37">37</option>
+                    <option value="38">38</option>
+                    <option value="39">39</option>
+                    <option value="40">40</option>
+                    <option value="41">41</option>
+                    <option value="42">42</option>
+                    <option value="43">43</option>
+                    <option value="44">44</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <h3>Precio máximo</h3>
+                <input type="range" id="price-filter" min="50" max="300" step="10" value="300">
+                <span id="price-value">S/ 300</span>
+            </div>
+            
+            <div class="filter-group">
+                <h3>Ordenar por</h3>
+                <select id="sort-filter">
+                    <option value="default">Recomendados</option>
+                    <option value="price-asc">Precio: Menor a Mayor</option>
+                    <option value="price-desc">Precio: Mayor a Menor</option>
+                    <option value="newest">Más nuevos</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section class="featured-banner">
+            <img src="imagenes/banner-destacado.jpg" alt="Zapatillas destacadas">
+        </section>
+        
+        <div class="products-container" id="products-container">
+            <!-- Productos se cargarán aquí con JavaScript -->
+        </div>
+    </main>
+
+    <script src="actions.js"></script>
+</body>
+</html>
