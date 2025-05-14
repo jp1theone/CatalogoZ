@@ -25,7 +25,7 @@ const productsData = [
         gender: "hombre",
         price: 149.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/3.jpg"
+        image: "imagenes/3.JPG"
     },
     {
         id: 4,
@@ -34,7 +34,7 @@ const productsData = [
         gender: "mujer",
         price: 159.99,
         sizes: [36, 37, 38, 39, 40, 41, 42, 43, 44],
-        image: "imagenes/5.jpg"
+        image: "imagenes/5.JPG"
     },
     {
         id: 5,
@@ -43,7 +43,7 @@ const productsData = [
         gender: "niños",
         price: 189.99,
         sizes: [36, 37, 38, 39, 40, 41, 42],
-        image: "imagenes/5.jpg"
+        image: "imagenes/5.JPG"
     },
     // Productos adicionales generados automáticamente
     {
@@ -53,7 +53,7 @@ const productsData = [
         gender: "hombre",
         price: 249.99,
         sizes: [38, 39, 40, 41, 42, 43, 44],
-        image: "imagenes/6.jpg"
+        image: "imagenes/6.JPG"
     },
     {
         id: 7,
@@ -62,7 +62,7 @@ const productsData = [
         gender: "mujer",
         price: 179.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/7.jpg"
+        image: "imagenes/7.JPG"
     },
     {
         id: 8,
@@ -71,7 +71,7 @@ const productsData = [
         gender: "mujer",
         price: 129.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/8.jpg"
+        image: "imagenes/8.JPG"
     },
     {
         id: 9,
@@ -80,7 +80,7 @@ const productsData = [
         gender: "hombre",
         price: 219.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/9.jpg"
+        image: "imagenes/9.JPG"
     },
     {
         id: 10,
@@ -89,7 +89,7 @@ const productsData = [
         gender: "hombre",
         price: 139.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/10.jpg"
+        image: "imagenes/10.JPG"
     },
     {
         id: 11,
@@ -98,7 +98,7 @@ const productsData = [
         gender: "niños",
         price: 169.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/11.jpg"
+        image: "imagenes/11.JPG"
     },
     {
         id: 12,
@@ -107,7 +107,7 @@ const productsData = [
         gender: "mujer",
         price: 119.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/12.jpg"
+        image: "imagenes/12.JPG"
     },
     {
         id: 13,
@@ -116,7 +116,7 @@ const productsData = [
         gender: "hombre",
         price: 149.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/13.jpg"
+        image: "imagenes/13.JPG"
     },
     {
         id: 14,
@@ -125,7 +125,7 @@ const productsData = [
         gender: "hombre",
         price: 239.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/14.jpg"
+        image: "imagenes/14.JPG"
     },
     {
         id: 15,
@@ -134,7 +134,7 @@ const productsData = [
         gender: "mujer",
         price: 159.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/15.jpg"
+        image: "imagenes/15.JPG"
     },
     {
         id: 16,
@@ -143,7 +143,7 @@ const productsData = [
         gender: "hombre",
         price: 199.99,
         sizes: [38, 39, 40, 41, 42, 43],
-        image: "imagenes/16.jpg"
+        image: "imagenes/16.JPG"
     },
     {
         id: 17,
@@ -152,7 +152,7 @@ const productsData = [
         gender: "niños",
         price: 179.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/17.jpg"
+        image: "imagenes/17.JPG"
     },
     {
         id: 18,
@@ -161,7 +161,7 @@ const productsData = [
         gender: "hombre",
         price: 109.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/18.jpg"
+        image: "imagenes/18.JPG"
     },
     {
         id: 19,
@@ -170,7 +170,7 @@ const productsData = [
         gender: "hombre",
         price: 279.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/19.jpg"
+        image: "imagenes/19.JPG"
     },
     {
         id: 20,
@@ -179,7 +179,7 @@ const productsData = [
         gender: "mujer",
         price: 169.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/20.jpg"
+        image: "imagenes/20.JPG"
     },
     {
         id: 21,
@@ -188,7 +188,7 @@ const productsData = [
         gender: "niños",
         price: 229.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/21.jpg"
+        image: "imagenes/21.JPG"
     },
     {
         id: 22,
@@ -197,7 +197,7 @@ const productsData = [
         gender: "hombre",
         price: 189.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/22.jpg"
+        image: "imagenes/22.JPG"
     },
     {
         id: 23,
@@ -206,7 +206,7 @@ const productsData = [
         gender: "mujer",
         price: 139.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/23.jpg"
+        image: "imagenes/23.JPG"
     },
     {
         id: 24,
@@ -215,7 +215,7 @@ const productsData = [
         gender: "hombre",
         price: 259.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/24.jpg"
+        image: "imagenes/24.JPG"
     },
     {
         id: 25,
@@ -224,7 +224,7 @@ const productsData = [
         gender: "hombre",
         price: 149.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/25.jpg"
+        image: "imagenes/25.JPG"
     },
     {
         id: 26,
@@ -233,7 +233,7 @@ const productsData = [
         gender: "mujer",
         price: 269.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/26.jpg"
+        image: "imagenes/26.JPG"
     },
     {
         id: 27,
@@ -242,7 +242,7 @@ const productsData = [
         gender: "hombre",
         price: 219.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/27.jpg"
+        image: "imagenes/27.JPG"
     },
     {
         id: 28,
@@ -251,7 +251,7 @@ const productsData = [
         gender: "mujer",
         price: 179.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/28.jpg"
+        image: "imagenes/28.JPG"
     },
     {
         id: 29,
@@ -260,7 +260,7 @@ const productsData = [
         gender: "hombre",
         price: 239.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/29.jpg"
+        image: "imagenes/29.JPG"
     },
     {
         id: 30,
@@ -269,7 +269,7 @@ const productsData = [
         gender: "niños",
         price: 199.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/30.jpg"
+        image: "imagenes/30.JPG"
     },
     {
         id: 31,
@@ -278,7 +278,7 @@ const productsData = [
         gender: "hombre",
         price: 229.99,
         sizes: [38, 39, 40, 41, 42, 43],
-        image: "imagenes/31.jpg"
+        image: "imagenes/31.JPG"
     },
     {
         id: 32,
@@ -287,7 +287,7 @@ const productsData = [
         gender: "mujer",
         price: 299.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/32.jpg"
+        image: "imagenes/32.JPG"
     },
     {
         id: 33,
@@ -296,7 +296,7 @@ const productsData = [
         gender: "hombre",
         price: 159.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/33.jpg"
+        image: "imagenes/33.JPG"
     },
     {
         id: 34,
@@ -305,7 +305,7 @@ const productsData = [
         gender: "mujer",
         price: 179.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/34.jpg"
+        image: "imagenes/34.JPG"
     },
     {
         id: 35,
@@ -314,7 +314,7 @@ const productsData = [
         gender: "hombre",
         price: 169.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/35.jpg"
+        image: "imagenes/35.JPG"
     },
     {
         id: 36,
@@ -323,7 +323,7 @@ const productsData = [
         gender: "niños",
         price: 149.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/36.jpg"
+        image: "imagenes/36.JPG"
     },
     {
         id: 37,
@@ -332,7 +332,7 @@ const productsData = [
         gender: "mujer",
         price: 129.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/37.jpg"
+        image: "imagenes/37.JPG"
     },
     {
         id: 38,
@@ -341,7 +341,7 @@ const productsData = [
         gender: "hombre",
         price: 139.99,
         sizes: [39, 40, 41, 42, 43],
-        image: "imagenes/38.jpg"
+        image: "imagenes/38.JPG"
     },
     {
         id: 39,
@@ -350,7 +350,7 @@ const productsData = [
         gender: "hombre",
         price: 199.99,
         sizes: [40, 41, 42, 43, 44],
-        image: "imagenes/39.jpg"
+        image: "imagenes/39.JPG"
     },
     {
         id: 40,
@@ -359,7 +359,7 @@ const productsData = [
         gender: "mujer",
         price: 159.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/40.jpg"
+        image: "imagenes/40.JPG"
     }
 ];
 
