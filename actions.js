@@ -16,7 +16,7 @@ const productsData = [
         gender: "mujer",
         price: 199.99,
         sizes: [36, 37, 38, 39, 40],
-        image: "imagenes/2.jpg"
+        image: "imagenes/2.JPG"
     },
     {
         id: 3,
